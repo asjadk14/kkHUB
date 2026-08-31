@@ -1,3 +1,3 @@
 # kkHUB
-This is my first Public Repository
+This is my first Public Repository.
 Author - Asjad Khan
